@@ -1,0 +1,7 @@
+1.Write a difference between HTTP1 & HTTP2.
+HTTP - means Hyper Text Transfer Protocol.
+    HTTP1 is a protocol to compress the data or images load one by one ,incase of loading in one data ,
+    the other data are not shown and shows an error.In contrast of http2 the data are executed in a single file and it is a 
+    mordern thing to be executed a data in a website.
+2.Write a blog about objects and its internal representation in Javascript
+   Object is a member of class and it is  a collection of named values and a property is an association between a name (or) key and a value.   
